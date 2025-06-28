@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "markdown-preview-view"
+  ]
+}

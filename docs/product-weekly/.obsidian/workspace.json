@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "fa898973270540e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbe38d26197e324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6112ebf47a45b222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/06/产品周刊 (20250616).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "产品周刊 (20250616)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67f3ec87674d4e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7f464f0742c42a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7028565a85f175e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "024bda1c381df60b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b47f67b0da8a5d61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c4785b51e29b243",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0917cd60ee891aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d824133405fcf39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/06/产品周刊 (20250616).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "产品周刊 (20250616) 的反向链接列表"
+            }
+          },
+          {
+            "id": "f43316bf7766807f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "8fece2692660e070",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "64149db93d8b0462",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025/06/产品周刊 (20250616).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "产品周刊 (20250616) 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6112ebf47a45b222",
+  "lastOpenFiles": [
+    "attachments/每周热门项目汇总 (1).png",
+    "attachments/Pasted image 20250628123146.png",
+    "attachments/Pasted image 20250627171211.png",
+    "2025/07",
+    "2025/06/07",
+    "attachments/Pasted image 20250625222844.png",
+    "attachments/Pasted image 20250625222344.png",
+    "attachments/Pasted image 20250625221841.png",
+    "attachments/Pasted image 20250625221751.png",
+    "2025/02/GitHub 周刊 (第60期).md",
+    "2025/06/产品周刊 (20250616).md",
+    "2025/02/GitHub 周刊 (第61期).md",
+    "2025/01/GitHub 周刊 (第56期).md",
+    "2025/01/GitHub 周刊 (第55期).md",
+    "2025/04/GitHub 周刊 (第70期).md",
+    "2025/04/GitHub 周刊 (第69期).md",
+    "2025/04/GitHub 周刊 (第68期).md",
+    "2025/04/GitHub 周刊 (第67期).md",
+    "2025/03/GitHub 周刊 (第66期).md",
+    "2025/03/GitHub 周刊 (第65期).md",
+    "2025/03/GitHub 周刊 (第64期).md",
+    "2025/03/GitHub 周刊 (第63期).md",
+    "2025/02/GitHub 周刊 (第62期).md",
+    "2025/02/GitHub 周刊 (第59期).md",
+    "attachments/GitHub 周刊 (第55期)-filecodebox02.png",
+    "attachments/GitHub 周刊 (第55期)-filecodebox01.png",
+    "attachments/GitHub 周刊 (第55期)-notionnext02.png",
+    "attachments/GitHub 周刊 (第55期)-notionnext01.png",
+    "2024/11/GitHub 周刊 (第44期).md",
+    "2025/01/GitHub 周刊 (第58期).md",
+    "2025/01/GitHub 周刊 (第57期).md",
+    "2024/11/GitHub 周刊 (第46期).md",
+    "2024/01/GitHub 周刊 (第1期).md",
+    "index.md",
+    "2024/02/GitHub 周刊 (第5期).md",
+    "2025/06",
+    "2025/05",
+    "2025/04",
+    "2025/03",
+    "2025/02",
+    "2025/01",
+    "2025",
+    "未命名.md"
+  ]
+}
