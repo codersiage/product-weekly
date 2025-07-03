@@ -3,6 +3,15 @@ import {getSidebarData} from "./theme/utils/generate-sidebar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-3Y45L5GS5J' }],
+    ['script', {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-3Y45L5GS5J');`
+    ]
+  ],
   title: "Product Weekly",
   description: "Popular Products This Week.",
   themeConfig: {
