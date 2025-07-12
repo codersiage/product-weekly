@@ -1,4 +1,4 @@
-GitHub Weekly
+Product Weekly
 ===
 
 ## 简介
